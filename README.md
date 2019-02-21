@@ -48,3 +48,22 @@ I have the right combination of skills and experience for
 I am naturally shy. I have trouble speaking in group of people even though I have a good idea.   but I feel nervous when asked to present to a alarge group of people. 
 But I know I need to be improve this area. Being Secuirty Consultant,My other Weaknesses is that I stammer when  I feel nervous.
 ```
+
+# Mobile Application accessments
+```
+the purpose of bypassing Android SSL Verification and Certificate Pinning is  to intercept  and modify the mobile application Request  and to understand how application communicated with Server and How application access Data and Manged it.
+One of my favorites method To bypass Android SSL Verification and Certificate Pinning is to perform manually 
+
+First Step is to decompile The Taget file using apktool to put Custom Certitificate where located Certs folden
+
+The next step is  to recompile using APKtool 
+
+The Final Step is  Signing the Apk File using  SignApk Application ,Applications cannot installed on the device if application is signed.
+
+
+First Step is to decompile The Tagget file using apktool  in order to understand the internal application functionality and look up sensitive information  such as cryptoapi private key and User credentials that Developer could be putted in the source code.
+The next step is to conduct Dynamic Analysis,The purpose  of dynamic analysis is to  find security vulnerabilities or weakess when Application is running. Dynamic analysis is conducted both at the mobile platform layer and against the back-end services and APIs,
+This step also Involve  to check for security mechanisms like authentication and authorization issues
+```
+
+
