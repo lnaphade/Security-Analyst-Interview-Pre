@@ -69,6 +69,6 @@ This step also Involve  to check for security mechanisms like authentication and
 ```
 An XML External Entity vulnerability (abbreviated XXE) is an attack against an application parsing XML input from an unreliable source.
 It’s usually caused by a misconfigured XML parser.One of the most common ways of finding an XXE is  upload function and a POST request carries a XML.
-This attack possible  lead to the disclosure of confidential data, port scanning. ေညိ ေညိေေေand Readable System file by everyone.
+This attack possible  lead to the disclosure of confidential data, port scanning and Readable System file by everyone.
 ```
 
