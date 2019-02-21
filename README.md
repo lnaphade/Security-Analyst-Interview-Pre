@@ -36,3 +36,15 @@ The insecure direct object references vulnerability allows an attacker to steal 
 in consequence of existing insecure direct object references, Its possbile to  change other user data or delete user  account and change user profile something like that
 
 ```
+
+# What is your Strengh
+```
+One of my greatest Strengh is that I am a fast learner and passionate about Cyber Security and keeping up to date new technology and Red Team techniques such AV bypasing and lateral movement techniques In order to used In realy Life infrastructure
+I have the right combination of skills and experience for 
+```
+# What is your weakness
+```
+
+I am naturally shy. I have trouble speaking in group of people even though I have a good idea.   but I feel nervous when asked to present to a alarge group of people. 
+But I know I need to be improve this area. Being Secuirty Consultant,My other Weaknesses is that I stammer when  I feel nervous.
+```
