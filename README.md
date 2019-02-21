@@ -28,3 +28,11 @@ We can Only verify speficy application whethervernerable  Blind SQL injection or
 1 ' and 1=0 fue
 
 ```
+# Insecure Direct Object References
+
+```
+According to the Open Web Application Security Project (OWASP), an insecure direct object references vulnerability is commonplace and easy to exploit
+The insecure direct object references vulnerability allows an attacker to steal other users’ data of a specific type. According to My experience Application often use   key /value of object,and fail to check if user is authorized to modify it.
+in consequence of existing insecure direct object references, Its possbile to  change other user data or delete user  account and change user profile something like that
+
+```
