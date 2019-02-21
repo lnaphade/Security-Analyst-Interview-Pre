@@ -23,4 +23,8 @@ Other type of SQL Injection are easy to identify by submitting specific payloads
 the server responds with error messages from the database server complaining that the SQL Query's syntax is incorrect if applications is vulnerable to SQL Injection. 
 Blind SQL Injection attack more difficult to identify  than any other type of SQL Injection because the Database server do not responds with error messages by submitting specific payloads.
 We can Only verify speficy application whethervernerable  Blind SQL injection or by submiiting  true or false. 1 ' 1=1
+
+1 ' and 1=1 true
+1 ' and 1=0 fue
+
 ```
