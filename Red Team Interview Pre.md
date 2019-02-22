@@ -23,3 +23,11 @@ I run these commands as soon as I have the necessary privileges.I also use ps to
 to find my potential lateral movement targets.To discover targets, I use Windows net commands and Ping sweep, identity as another user, I usually try to steal an access token from another process
 If I know credentials, I use net use to connect to C$ or admin$ on a remote system.
 ```
+# What is a Red Team Engagement
+```
+A red team engagement consists of a full scope, multi-layered adversarial attack simulation created to measure how well an organizations staff, networks, applications and physical security controls can withstand a real-life attack.
+
+**Goals for the engagement are defined at the start of the assessment and can be customer or red team driven.
+Items such as data compromise, gaining internal network access, and cryptographic key compromise are all goals routinely set. During the engagement red teams will utilize the same tools, tactics, and techniques utilized by adversaries to provide the most accurate attack picture possible**
+
+```
