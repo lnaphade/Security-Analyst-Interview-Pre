@@ -30,4 +30,13 @@ A red team engagement consists of a full scope, multi-layered adversarial attack
 ** Goals for the engagement are defined at the start of the assessment and can be customer or red team driven.
 Items such as data compromise, gaining internal network access, and cryptographic key compromise are all goals routinely set. During the engagement red teams will utilize the same tools, tactics, and techniques utilized by adversaries to provide the most accurate attack picture possible **
 
+A red team assessment is a goal-based adversarial activity that requires a big-picture, holistic view of the organization from the perspective of an adversary.
+The purpose of conducting a red teaming assessment is to demonstrate how real world attackers can combine seemingly unrelated exploits to achieve their goal. It is an effective way to show that even the most sophisticated firewall in the world means very little if an attacker can walk out of the data center with an unencrypted hard drive.
+
+Goal-Based adversarial testing process
+Organizational assessment vs specific targets
+Measures how an organization will respond to an attack
+Incorporates many elements of an organization’s overall security posture
+
+
 ```
