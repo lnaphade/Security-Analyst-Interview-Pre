@@ -25,18 +25,8 @@ If I know credentials, I use net use to connect to C$ or admin$ on a remote syst
 ```
 # What is a Red Team Engagement
 ```
-A red team engagement consists of a full scope, multi-layered adversarial attack simulation created to measure how well an organizations staff, networks, applications and physical security controls can withstand a real-life attack.
-
-** Goals for the engagement are defined at the start of the assessment and can be customer or red team driven.
-Items such as data compromise, gaining internal network access, and cryptographic key compromise are all goals routinely set. During the engagement red teams will utilize the same tools, tactics, and techniques utilized by adversaries to provide the most accurate attack picture possible **
-
-A red team assessment is a goal-based adversarial activity that requires a big-picture, holistic view of the organization from the perspective of an adversary.
-The purpose of conducting a red teaming assessment is to demonstrate how real world attackers can combine seemingly unrelated exploits to achieve their goal. It is an effective way to show that even the most sophisticated firewall in the world means very little if an attacker can walk out of the data center with an unencrypted hard drive.
-
-Goal-Based adversarial testing process
-Organizational assessment vs specific targets
-Measures how an organization will respond to an attack
-Incorporates many elements of an organization’s overall security posture
-
-
+A red team assessment is a goal-based adversarial attack simulation to measure How organization would respond to a
+multi vector attack and how ability to detect and respond to a realworld attack scenario.
+The Goals for the engagement are defined Before Execution the assessment such as Credential Collecting , gaining internal network access,Gaining access to Domain Controller 
+and having access to confidential data and documents By Compromising Report Server During the engagement.
 ```
