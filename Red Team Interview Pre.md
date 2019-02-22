@@ -11,3 +11,15 @@ Back to the point, I've also found "Red Teams" running C2 with invalid certifica
 Red Teamers need to stop thinking of attack simulations as a 1-on-1 fight against an organization. In a real scenario,
 the blue team most likely has shared intel resources with partner organizations. Defense was never a solo fight against the dark
 ```
+# Red Team Tradecraft
+```
+Once I have a foothold, my first goal is to elevate privileges.I Use PowerUp script. To  misconfigurations  
+
+Once I elevate, one of my first priorities is to move away from patient zero (the initially compromised system). 
+My options to move are dictated by the trust relationships I have access to. Now that Beacon has hashdump and wdigest, 
+I run these commands as soon as I have the necessary privileges.I also use ps to see which processes are running as users other than my current one.
+
+#Lateral Movement
+to find my potential lateral movement targets.To discover targets, I use Windows net commands and Ping sweep, identity as another user, I usually try to steal an access token from another process
+If I know credentials, I use net use to connect to C$ or admin$ on a remote system.
+```
