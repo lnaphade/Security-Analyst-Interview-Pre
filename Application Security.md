@@ -86,3 +86,10 @@ Back to the point, I've also found "Red Teams" running C2 with invalid certifica
 Red Teamers need to stop thinking of attack simulations as a 1-on-1 fight against an organization. In a real scenario,
  the blue team most likely has shared intel resources with partner organizations. Defense was never a solo fight against the dark
  ```
+ # Cross-Site Request Forgery
+ ```
+Cross-Site Request Forgery Vulnerability attack against An application.
+Attacker Trick victims to Click The malicious link deliver By Attack which containing Request to Application what to do.
+Attacker Action is complete when Victims clicked The malicious link. 
+```
+ 
